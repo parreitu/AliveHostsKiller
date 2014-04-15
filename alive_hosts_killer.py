@@ -8,6 +8,8 @@ The user must have admin permissions in remote clients.
 
 We use this script all nights to shutdown alive computers on our network.
 
+Code and the last version: https://github.com/parreitu/AliveHostsKiller
+
 """
 
 import logging
